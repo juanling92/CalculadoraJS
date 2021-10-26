@@ -1,0 +1,65 @@
+html {
+    font-size: 80%;
+    box-sizing: border-box;
+}
+p {
+    font-size: 120%;
+}
+
+
+    *,
+    *::before,
+    *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+    }
+
+.calculator {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+    background-color:#fff; 
+    }
+
+.title {
+    font-size: 2rem;
+    height: 50px;
+    border: none;
+    text-align: center;
+    vertical-align: 50%;
+    background-color: #252525;
+    color: #fff;
+    padding-top: 10px;
+    }
+
+.calculator button {
+    padding: 4px 6px;
+    margin: 5px;
+}
+
+.calculator input {
+    padding: 2px;
+    margin: 2px;
+}
+
+h2{
+    text-align: center;
+    margin: 5px;
+}
+
+.operaciones {
+    text-align: center;
+}
+
+.calculos {
+    text-align: center;
+}
+
+.resultados {
+    text-align: center;
+}

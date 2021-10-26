@@ -1,0 +1,6 @@
+[
+    { "id": 1,  "accion": "Calcular Interes" }, 
+    { "id": 2,  "accion": "Calcular Plazo fijo" },
+    { "id": 3,  "accion": "Calcular Sueldo neto" },
+    { "id": 4,  "accion": "Calcular Prestamo"}
+]
